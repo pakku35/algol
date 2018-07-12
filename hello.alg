@@ -1,0 +1,4 @@
+begin
+
+outstring(1,"Hello world")
+end
